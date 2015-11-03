@@ -21,6 +21,7 @@
             <url>http://repo1.maven.org/maven2/</url>
         </repository>
         <!-- For resteasy -->
+        <!-- teste alterando no github -->
         <repository>
             <id>jboss</id>
             <name>jboss repo</name>
