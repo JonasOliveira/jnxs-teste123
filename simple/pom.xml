@@ -9,7 +9,6 @@
     <packaging>war</packaging>
     <name/>
     <description/>
-
     <repositories>
         <repository>
             <id>java.net</id>
